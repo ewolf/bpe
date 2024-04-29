@@ -1,0 +1,6 @@
+Revision history for Perl extension BPE.
+
+0.01  Fri Apr 26 23:03:09 2024
+	- original version; created by h2xs 1.23 with options
+		-O -n BPE BPE/bpelib/bpelib.h
+

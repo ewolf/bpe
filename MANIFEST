@@ -1,0 +1,13 @@
+BPE.xs
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/BPE.t
+fallback/const-c.inc
+fallback/const-xs.inc
+lib/BPE.pm
+bpelib/Makefile.PL
+bpelib/bpelib.h
+bpelib/bpelib.c
